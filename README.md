@@ -1,4 +1,4 @@
-# VERIFICATION OF KIRCHHOFF’S LAWS
+<img width="1600" height="1583" alt="image" src="https://github.com/user-attachments/assets/35166065-755b-4951-a0d0-eafe59b648ab" /># VERIFICATION OF KIRCHHOFF’S LAWS
 
 **AIM:**
 
@@ -24,16 +24,12 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2026-03-26 at 12 44 49 PM](https://github.com/user-attachments/assets/9d1414cb-0446-4f87-acf5-78a42d868d3b)
 
-
-
-
-
-
-
-
-
-
+**TABULATION:**
+<img width="1600" height="882" alt="image" src="https://github.com/user-attachments/assets/806ce200-1576-4bb4-89fb-c5281d17e44c" />
+**CALCULATION:**
+<img width="1556" height="1600" alt="image" src="https://github.com/user-attachments/assets/1dc0646d-8448-4bc8-b7c1-4703d89cb0a5" />
 
 **PROCEDURE:**
 
@@ -52,4 +48,10 @@
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+
+**MARK SPLITUP:
+<img width="1600" height="1583" alt="image" src="https://github.com/user-attachments/assets/1ccd1fe3-0c08-4236-ae5a-bfaacbd77caa" />
+
+
+
 
